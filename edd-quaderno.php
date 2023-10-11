@@ -73,6 +73,7 @@ final class EDD_Quaderno {
 		require_once EDD_QUADERNO_PLUGIN_DIR . 'includes/payments.php';
 		require_once EDD_QUADERNO_PLUGIN_DIR . 'includes/order_details.php';
 		require_once EDD_QUADERNO_PLUGIN_DIR . 'includes/purchase_history.php';
+		require_once EDD_QUADERNO_PLUGIN_DIR . 'includes/email_tags.php';
 		require_once EDD_QUADERNO_PLUGIN_DIR . 'includes/settings.php';
 	}
 
